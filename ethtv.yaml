@@ -13,3 +13,5 @@ payload:
   - DOMAIN,ott.epithelialcellrobots.site
   - DOMAIN,ott.epithelialcellrobots.store
   - DOMAIN,nginx.web6868.com
+  - DOMAIN,cloud.listbooks.site
+  - DOMAIN,cloud.listbooks.store

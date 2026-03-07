@@ -1,9 +1,11 @@
+payload:
+
+  - DOMAIN-SUFFIX:f1tv.formula1.com
+
+  - DOMAIN-SUFFIX:formula1.com
+
+  - DOMAIN-KEYWORD,f1tv
+
+  - DOMAIN-KEYWORD,formula1
 
 
-DOMAIN-SUFFIX,f1tv.formula1.com
-
-DOMAIN-SUFFIX,formula1.com
-
-DOMAIN-KEYWORD,f1tv
-
-DOMAIN-KEYWORD,formula1

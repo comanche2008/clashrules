@@ -17,3 +17,6 @@ payload:
   - DOMAIN,cloud.listbooks.store
   - DOMAIN,cloud.epithelialcellrobots.store
   - DOMAIN,cloud.epithelialcellrobots.site
+  - DOMAIN,app.epithelialcellrobots.com
+  - DOMAIN,renew.newbellbox.site
+  - DOMAIN,newapp.tv6868.com

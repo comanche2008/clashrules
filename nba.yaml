@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,cf-blast.livelikecdn.com
   - DOMAIN-SUFFIX,livelike.pubnubapi.com
   - DOMAIN-SUFFIX,capture.api.easelive.tv
+  - DOMAIN-SUFFIX,livelike.pubnubapi.com
   - DOMAIN-KEYWORD,nba
   - DOMAIN-KEYWORD,bitmovin.com
   - DOMAIN-KEYWORD,celtra.com

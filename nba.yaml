@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,nbanlds19vod.akamaized.net
   - DOMAIN-SUFFIX,cf-blast.livelikecdn.com
   - DOMAIN-SUFFIX,livelike.pubnubapi.com
+  - DOMAIN-SUFFIX,analytics.api.easelive.tv
   - DOMAIN-SUFFIX,capture.api.easelive.tv
   - DOMAIN-SUFFIX,livelike.pubnubapi.com
   - DOMAIN-KEYWORD,nba

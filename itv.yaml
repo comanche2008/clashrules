@@ -1,0 +1,12 @@
+# NAME: ITV
+# UPDATED: 2025-06-06 09:16:58
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+payload:
+  - DOMAIN,itvpnpmobile-a.akamaihd.net
+  - DOMAIN-SUFFIX,itv.com
+  - DOMAIN-SUFFIX,itvx.com
+  - DOMAIN-SUFFIX,itvstatic.com
+  - DOMAIN-SUFFIX,itv.com.edgesuite.net
+

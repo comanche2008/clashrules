@@ -23,6 +23,5 @@ payload:
   - DOMAIN,renew.notescrassula.com
   - DOMAIN,apple-14-v4-prod.notessedum.com
   - DOMAIN-SUFFIX,web6868.com
-  - DOMAIN,web3.clodehugtiger.store
-  - DOMAIN,uhd2.clodehugtiger.store
+  - DOMAIN-SUFFIX,clodehugtiger.site
   - DOMAIN-SUFFIX,clodehugtiger.store

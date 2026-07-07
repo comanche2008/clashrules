@@ -5,3 +5,7 @@ payload:
   - DOMAIN,mini.cr18.eu.org
   - DOMAIN,nano.jmsuper.com
   - DOMAIN,media.micu.hk
+
+  # 起点 Emby
+  - DOMAIN,us.aemby.de:443
+  

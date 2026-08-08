@@ -28,5 +28,6 @@ payload:
   - DOMAIN,renewapp.notescrassula.com
   - DOMAIN,greennowday.store
   - DOMAIN,greennowday.site
-  
+  - DOMAIN,cloud.greennowminute.store
+  - DOMAIN,cloud.greennowminute.site
 

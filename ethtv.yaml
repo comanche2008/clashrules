@@ -30,4 +30,5 @@ payload:
   - DOMAIN,greennowday.site
   - DOMAIN,cloud.greennowminute.store
   - DOMAIN,cloud.greennowminute.site
-
+  - DOMAIN,cloud.greennowhour.site
+  - DOMAIN,cloud.greennowhour.store

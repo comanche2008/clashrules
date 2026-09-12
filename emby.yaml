@@ -7,5 +7,8 @@ payload:
   - DOMAIN,media.micu.hk
 
   # 起点 Emby
-  - DOMAIN,us.aemby.de:443
-  
+  - DOMAIN,us.aemby.de
+
+  # 大西瓜
+  - DOMAIN,www.yuntv.de
+  - DOMAIN,xq.yuntv.de

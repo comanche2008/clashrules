@@ -15,3 +15,7 @@ payload:
 
   # 流光画廊
   - DOMAIN,auto.dqx99999.shop/
+
+  # 这只猫 Emby
+  - DOMAIN-SUFFIX,itsmygo.tv
+

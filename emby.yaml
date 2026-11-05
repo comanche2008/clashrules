@@ -29,4 +29,7 @@ payload:
   # BBemby
   - DOMAIN,emby.bbqwq.com
 
+  # HXD
+  - DOMAIN-SUFFIX,hxdemby.com
+
 

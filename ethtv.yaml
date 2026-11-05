@@ -32,3 +32,5 @@ payload:
   - DOMAIN,cloud.greennowminute.site
   - DOMAIN,cloud.greennowhour.site
   - DOMAIN,cloud.greennowhour.store
+  - DOMAIN,newapi.luckkitten.store
+  - DOMAIN,newapi.luckkitten.site

@@ -35,4 +35,9 @@ payload:
   # 神秘礼物
   - DOMAIN,gf.smlwmv.com
 
+  # Lily Emby
+  - DOMAIN-SUFFIX,lilyemby.app
+  - DOMAIN-SUFFIX,lilyemby.com
+
+
 

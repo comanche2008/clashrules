@@ -39,5 +39,11 @@ payload:
   - DOMAIN-SUFFIX,lilyemby.app
   - DOMAIN-SUFFIX,lilyemby.com
 
+  # 这只猫
+  - DOMAIN,de.ftp2.eu.org
+  - DOMAIN,vipdc.covh.eu.org
+  - DOMAIN,eb.zzm.li
+
+
 
 
